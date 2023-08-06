@@ -1,0 +1,39 @@
+[
+      {
+        "id": 1,
+        "name": "Donald J. Patterson ",
+        "context": "Donald J. Patterson ## Professor Patterson graduated in 2005 from the University of Washington with a Ph.D. in computer science where he was the recipient of several awards including the University of Washington Educator's Fellowship, and the National Defense Science and Engineering Graduate Fellowship.",
+        "qas": [
+            {
+                "question": "what schools was Donald J. Patterson  educated ?",
+                "answer": [
+                    "University of Washington"
+                ]
+            },
+            {
+                "question": "What degrees did Donald J. Patterson receive from University of Washington?",
+                "answer": [
+                    "Ph.D."
+                ]
+            },
+            {
+                "question": "What major did Donald J. Patterson take for the Ph.D. degree from University of Washington?",
+                "answer": [
+                    "computer science"
+                ]
+            },
+            {
+                "question": "When did Donald J. Patterson start Ph.D. in computer science at University of Washington?",
+                "answer": [
+                    "unknown"
+                ]
+            },
+            {
+                "question": "When did Donald J. Patterson receive Ph.D. in computer science from University of Washington?",
+                "answer": [
+                    "2005"
+                ]
+            }
+        ]
+    },
+]
